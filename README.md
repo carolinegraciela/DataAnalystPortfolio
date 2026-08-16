@@ -8,3 +8,20 @@ During my academic year, I served as a leader in the student Senate and headed t
 Click [here](https://github.com/carolinegraciela/DataAnalystPortfolio/blob/main/(NEW)%20Data%20Analyst%20CV.pdf) to see my CV.
 
 This is a repository to showcase my portfolio, share projects and track my progress in Data Analytics.
+
+## Table of Contents
+* About
+* Portfolio Projects
+  * Python
+  * SQL
+  * R
+  * Excel
+  * Tableau
+* Education
+* Certificates
+* Contact
+
+## Portfolio Projects
+In this section, I'll present and briefly explain my projects, as well as the root problems and the technology stacked used to solve cases.
+
+### 
