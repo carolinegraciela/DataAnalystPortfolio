@@ -1,4 +1,4 @@
-# Caroline Graciela H. - Data Analytics Portfolio
+# Caroline Graciela H. - Data Analyst Portfolio
 
 ## About
 Hi, my name is Caroline Graciela! As an Informatics graduate from Institut Informatika Indonesia Surabaya with 4.00 GPA, I bring a rigorous technical foundation to my work. My practical experience as a System Analyst in the retail industry has shaped my core professional strength: relying on data-driven analytical perspectives rather than pure business intuition to solve complex challenges. I am eager to leverage this background as a Data Analyst, translating high-volume data into strategic, actionable insights.
@@ -7,15 +7,18 @@ During my academic year, I served as a leader in the student Senate and headed t
 
 Click [here](https://github.com/carolinegraciela/DataAnalystPortfolio/blob/main/(NEW)%20Data%20Analyst%20CV.pdf) to see my CV.
 
-This is a repository to showcase my portfolio, share projects and track my progress in Data Analytics.
+This is a repository to showcase my portfolio, share projects and track my progress in Data Analytics & Data Science.
 
 ## Table of Contents
 * About
 * Portfolio Projects
   * Python
+   * [Biblibot - A Chatbot for Contextual Bible Verse Search]() 
   * SQL
+   * Analyzing Marketing Funnel in CSV E-Commerce Data 
   * R
   * Excel
+   * 
   * Tableau
 * Education
 * Certificates
