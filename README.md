@@ -49,7 +49,7 @@ In this section, I'll present and briefly explain my projects, as well as the ro
 **Goal**: To provide an interactive executive overview of global sales performance, enabling stakeholders to analyze revenue distribution across multiple dimensions such as item categories, sales channels, and geographical regions.\
 **Skills**: Data Cleaning, Data Extraction & Transformation (ETL), Dashboard Design, Interactive Data Filtering, Financial Metric Aggregation, Categorical Analysis.\
 **Technology**: Microsoft Excel & Power Query.\
-**Result**: Successfully developed an interactive revenue dashboard using Excel and Power Query that processes comprehensive sales data into actionable executive insights. The dashboard features dynamic filtering by Country and Order Date (2014-2020), instantly updating high-level scorecards such as Total Revenue ($13.4B), Total Orders, and Average Order Value. Furthermore, it incorporates visual breakdowns of Sales Channel Distribution, Revenue by Order Priority, and Revenue by Item Type (identifying Household and Office Supplies as top-performing categories), allowing management to quickly evaluate operational trends and product performance.\
+**Result**: Successfully developed an interactive revenue dashboard using Excel and Power Query that processes comprehensive sales data into actionable executive insights. The dashboard features dynamic filtering by Country and Order Date (2014-2020), instantly updating high-level scorecards such as Total Revenue ($13.4B), Total Orders, and Average Order Value. Furthermore, it incorporates visual breakdowns of Sales Channel Distribution, Revenue by Order Priority, and Revenue by Item Type (identifying Household and Office Supplies as top-performing categories), allowing management to quickly evaluate operational trends and product performance.
 
 ### US Flight Delay Analysis 
 ---
@@ -63,10 +63,10 @@ In this section, I'll present and briefly explain my projects, as well as the ro
 **Bachelor's Degree in informatics from Institut Informatika Indonesia Surabaya** (Aug 2022 - Aug 2026)
 
 ## Certification
-* (Database with Oracle)[https://drive.google.com/file/d/1dBD_jrmhWBrrwr5lltp7Vi6Nenm4UyGA/view?usp=sharing]
-* (Fundamental Data Visualization using R)[https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing]
-* (Bangkit Graduate in Machine Learning)[[https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing](https://drive.google.com/file/d/13LzQMc2O-lr6HlJgjH6se6O94-PEOrU1/view?usp=sharing)]
+* [Database with Oracle](https://drive.google.com/file/d/1dBD_jrmhWBrrwr5lltp7Vi6Nenm4UyGA/view?usp=sharing)
+* [Fundamental Data Visualization using R](https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing)
+* [Bangkit Graduate in Machine Learning](https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing](https://drive.google.com/file/d/13LzQMc2O-lr6HlJgjH6se6O94-PEOrU1/view?usp=sharing)
 
 ## Contact
-* (Email)[carolineharmanto56@gmail.com]
-* (Linkedln)[https://www.linkedin.com/in/caroline-graciela-harmanto-3b2baa329/]
+* [Email](carolineharmanto56@gmail.com)
+  [Linkedln](https://www.linkedin.com/in/caroline-graciela-harmanto-3b2baa329/)
