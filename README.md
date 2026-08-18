@@ -57,16 +57,16 @@ In this section, I'll present and briefly explain my projects, as well as the ro
 **Goal**: To provide an interactive visualization regarding the overview of US flight delays based on certain dimensions such as maps and airlines.\
 **Skills**: Data Extraction & Transformation (ETL), Dashboard Design, Interactive Data Filtering, Categorical Analysis.\
 **Technology**: Tableau.\
-**Result**: Successfully developed an interactive visualization integrating Excel data and Tableau. The dashboard is filtered by year and location, providing the average percentage of carrier delays.\
+**Result**: Successfully developed an interactive visualization integrating Excel data and Tableau. The dashboard is filtered by year and location, providing the average percentage of carrier delays.
 
 ## Education
-### Bachelor's Degree in informatics from Institut Informatika Indonesia Surabaya (Aug 2022 - Aug 2026)
+**Bachelor's Degree in informatics from Institut Informatika Indonesia Surabaya** (Aug 2022 - Aug 2026)
 
 ## Certification
-### (Database with Oracle)[https://drive.google.com/file/d/1dBD_jrmhWBrrwr5lltp7Vi6Nenm4UyGA/view?usp=sharing]
-### (Fundamental Data Visualization using R)[https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing]
-### (Bangkit Graduate in Machine Learning)[[https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing](https://drive.google.com/file/d/13LzQMc2O-lr6HlJgjH6se6O94-PEOrU1/view?usp=sharing)]
+* (Database with Oracle)[https://drive.google.com/file/d/1dBD_jrmhWBrrwr5lltp7Vi6Nenm4UyGA/view?usp=sharing]
+* (Fundamental Data Visualization using R)[https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing]
+* (Bangkit Graduate in Machine Learning)[[https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing](https://drive.google.com/file/d/13LzQMc2O-lr6HlJgjH6se6O94-PEOrU1/view?usp=sharing)]
 
 ## Contact
-### (Email)[carolineharmanto56@gmail.com]
-### (Linkedln)[https://www.linkedin.com/in/caroline-graciela-harmanto-3b2baa329/]
+* (Email)[carolineharmanto56@gmail.com]
+* (Linkedln)[https://www.linkedin.com/in/caroline-graciela-harmanto-3b2baa329/]
