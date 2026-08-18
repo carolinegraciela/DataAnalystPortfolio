@@ -28,6 +28,7 @@ This is a repository to showcase my portfolio, share projects and track my progr
 In this section, I'll present and briefly explain my projects, as well as the root problems and the technology stacked used to solve cases.
 
 ### Biblibot - A Chatbot for Contextual Bible Verse Search
+---
 **Code**: [Click Here](https://github.com/carolinegraciela/biblibot)
 **Goal**: Creating a flexible chatbot application using RAG & the LangChain framework that gives the most relevant Bible verses according to the queries.
 **Skills**: Document loading & chunking strategy, vector embedding & vector databases, contextual prompting.
@@ -35,6 +36,7 @@ In this section, I'll present and briefly explain my projects, as well as the ro
 **Result**: Successfully developed and deployed a highly responsive chatbot interface using Chainlit and the Groq API. By implementing a specific hybrid architecture that combines two distinct text-segmentation strategies, the system achieved good contextual accuracy in verse retrieval via FAISS.
 
 ### Analyzing Market Funnel - SQL
+---
 **Code**: [Click Here](https://github.com/carolinegraciela/SalesAnalysis_SQL_Tableau)\
 **Goal**: To identify critical drop-off points in the customer journey, evaluate the performance of acquisition channels, and measure the overall time-to-conversion to optimize the e-commerce sales funnel.\
 **Skills**: Common Table Expressions (CTEs), Conditional Aggregation, Time-Series Analysis, Funnel Analysis, Financial Metric Calculation (AOV, RPV).\
@@ -42,6 +44,7 @@ In this section, I'll present and briefly explain my projects, as well as the ro
 **Result**: Successfully engineered an SQL data pipeline that maps the complete user journey from initial page view to final purchase. The analysis effectively isolated bottlenecks in the conversion funnel, evaluated the highest-converting traffic sources, and tracked the average time users take to move between stages. Furthermore, the query generated actionable financial metrics such as Average Order Value (AOV) and Revenue Per Visitor (RPV) to help marketing teams measure true acquisition ROI.\
 
 ### KPI Dashboard using Excel & Power Query 
+---
 **Code**: [Click Here](https://github.com/carolinegraciela/SalesData_ExcelAnalysis)\
 **Goal**: To provide an interactive executive overview of global sales performance, enabling stakeholders to analyze revenue distribution across multiple dimensions such as item categories, sales channels, and geographical regions.\
 **Skills**: Data Cleaning, Data Extraction & Transformation (ETL), Dashboard Design, Interactive Data Filtering, Financial Metric Aggregation, Categorical Analysis.\
@@ -49,6 +52,7 @@ In this section, I'll present and briefly explain my projects, as well as the ro
 **Result**: Successfully developed an interactive revenue dashboard using Excel and Power Query that processes comprehensive sales data into actionable executive insights. The dashboard features dynamic filtering by Country and Order Date (2014-2020), instantly updating high-level scorecards such as Total Revenue ($13.4B), Total Orders, and Average Order Value. Furthermore, it incorporates visual breakdowns of Sales Channel Distribution, Revenue by Order Priority, and Revenue by Item Type (identifying Household and Office Supplies as top-performing categories), allowing management to quickly evaluate operational trends and product performance.\
 
 ### US Flight Delay Analysis 
+---
 **Visualization**: [Click Here](https://public.tableau.com/views/USFlightDelay_17739276114730/USFlightDelay?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)\
 **Goal**: To provide an interactive visualization regarding the overview of US flight delays based on certain dimensions such as maps and airlines.\
 **Skills**: Data Extraction & Transformation (ETL), Dashboard Design, Interactive Data Filtering, Categorical Analysis.\
