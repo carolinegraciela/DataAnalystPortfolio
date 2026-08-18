@@ -13,13 +13,13 @@ This is a repository to showcase my portfolio, share projects and track my progr
 * About
 * Portfolio Projects
   * Python
-   * [Biblibot - A Chatbot for Contextual Bible Verse Search]() 
+    * [Biblibot - A Chatbot for Contextual Bible Verse Search]() 
   * SQL
-   * Analyzing Marketing Funnel in CSV E-Commerce Data 
-  * R
+    * [Analyzing Marketing Funnel in CSV E-Commerce Data]() 
   * Excel
-   * 
+    * [KPI Dashboard using Excel & Power Query]() 
   * Tableau
+    * [Click Here]()
 * Education
 * Certificates
 * Contact
@@ -27,4 +27,23 @@ This is a repository to showcase my portfolio, share projects and track my progr
 ## Portfolio Projects
 In this section, I'll present and briefly explain my projects, as well as the root problems and the technology stacked used to solve cases.
 
-### 
+### Biblibot - A Chatbot for Contextual Bible Verse Search
+**Code**: []()
+**Goal**: Creating a flexible chatbot application using RAG & the LangChain framework that gives the most relevant Bible verses according to the queries.
+**Skills**: Document loading & chunking strategy, vector embedding & vector databases, contextual prompting.
+**Technology**: Chainlit, Python, FAISS, LangChain, Groq API (accessing the Llama 3.1 8B model).
+**Result**: Successfully developed and deployed a highly responsive chatbot interface using Chainlit and the Groq API. By implementing a specific hybrid architecture that combines two distinct text-segmentation strategies, the system achieved good contextual accuracy in verse retrieval via FAISS.
+
+### Analyzing Market Funnel - SQL
+**Code**: []()
+**Goal**: To identify critical drop-off points in the customer journey, evaluate the performance of acquisition channels, and measure the overall time-to-conversion to optimize the e-commerce sales funnel.
+**Skills**: Common Table Expressions (CTEs), Conditional Aggregation, Time-Series Analysis, Funnel Analysis, Financial Metric Calculation (AOV, RPV).
+**Technology**: Google BigQuery (Standard SQL)
+**Result**: Successfully engineered an SQL data pipeline that maps the complete user journey from initial page view to final purchase. The analysis effectively isolated bottlenecks in the conversion funnel, evaluated the highest-converting traffic sources, and tracked the average time users take to move between stages. Furthermore, the query generated actionable financial metrics such as Average Order Value (AOV) and Revenue Per Visitor (RPV) to help marketing teams measure true acquisition ROI.
+
+### KPI Dashboard using Excel & Power Query 
+**Code**: []()
+**Goal**: To identify critical drop-off points in the customer journey, evaluate the performance of acquisition channels, and measure the overall time-to-conversion to optimize the e-commerce sales funnel.
+**Skills**: Common Table Expressions (CTEs), Conditional Aggregation, Time-Series Analysis, Funnel Analysis, Financial Metric Calculation (AOV, RPV).
+**Technology**: Google BigQuery (Standard SQL)
+**Result**: Successfully engineered an SQL data pipeline that maps the complete user journey from initial page view to final purchase. The analysis effectively isolated bottlenecks in the conversion funnel, evaluated the highest-converting traffic sources, and tracked the average time users take to move between stages. Furthermore, the query generated actionable financial metrics such as Average Order Value (AOV) and Revenue Per Visitor (RPV) to help marketing teams measure true acquisition ROI.
