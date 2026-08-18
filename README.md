@@ -69,4 +69,4 @@ In this section, I'll present and briefly explain my projects, as well as the ro
 
 ## Contact
 * [Email](carolineharmanto56@gmail.com)
-  [Linkedln](https://www.linkedin.com/in/caroline-graciela-harmanto-3b2baa329/)
+* [Linkedln](https://www.linkedin.com/in/caroline-graciela-harmanto-3b2baa329/)
