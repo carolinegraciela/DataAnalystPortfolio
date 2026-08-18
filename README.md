@@ -65,7 +65,7 @@ In this section, I'll present and briefly explain my projects, as well as the ro
 ## Certification
 * [Database with Oracle](https://drive.google.com/file/d/1dBD_jrmhWBrrwr5lltp7Vi6Nenm4UyGA/view?usp=sharing)
 * [Fundamental Data Visualization using R](https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing)
-* [Bangkit Graduate in Machine Learning](https://drive.google.com/file/d/15DI_lxI40bbdE6HBUm1ZBEe-t8E9vln5/view?usp=sharing](https://drive.google.com/file/d/13LzQMc2O-lr6HlJgjH6se6O94-PEOrU1/view?usp=sharing)
+* [Bangkit Graduate in Machine Learning](https://drive.google.com/file/d/13LzQMc2O-lr6HlJgjH6se6O94-PEOrU1/view?usp=sharing)
 
 ## Contact
 * [Email](carolineharmanto56@gmail.com)
