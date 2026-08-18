@@ -68,5 +68,5 @@ In this section, I'll present and briefly explain my projects, as well as the ro
 * [Bangkit Graduate in Machine Learning](https://drive.google.com/file/d/13LzQMc2O-lr6HlJgjH6se6O94-PEOrU1/view?usp=sharing)
 
 ## Contact
-* [Email](mailto:carolineharmanto56@gmail.com)
+* Email: carolineharmanto56@gmail.com
 * [Linkedln](https://www.linkedin.com/in/caroline-graciela-harmanto-3b2baa329/)
